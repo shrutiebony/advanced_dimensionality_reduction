@@ -1,7 +1,6 @@
 # advanced_dimensionality_reduction
 
 ### 1. Repository Structure
-We need to create a clear structure for your project. The directory will include:
 
 Image Data Notebook: Dimensionality reduction on datasets like Olivetti Faces or MNIST.
 Tabular Data Notebook: Techniques applied to datasets like Iris or medical datasets.
