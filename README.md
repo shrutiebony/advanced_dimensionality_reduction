@@ -1,4 +1,5 @@
 # advanced_dimensionality_reduction
+### Youtube video: https://youtu.be/pG4wahlrSvI
 
 ### 1. Repository Structure
 
