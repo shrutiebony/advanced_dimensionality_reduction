@@ -108,6 +108,6 @@ Extend methods to time-series data (e.g., Dynamic Mode Decomposition).
 Combine dimensionality reduction with clustering algorithms (k-means, DBSCAN).
 Integrate real-world high-dimensional datasets (genomics, financial data).
 
-#### Acknowledgments
+### Acknowledgments
 Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron.
 Public datasets from Scikit-learn, Kaggle, and UCI ML Repository.
